@@ -99,4 +99,6 @@ Dataset Source: [Attach sanitized sample if possible]
 Visuals:
 Data Cleaning Flow
 
-
+## 📜 License 
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)  
+Copyright © 2025 [Sagarkumar49](https://github.com/Sagarkumar49)
